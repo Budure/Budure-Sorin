@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1528136259 source:c:\users\sorin\desktop\proiect\graph.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"graph.h"
+
+1528136259 c:\users\sorin\desktop\proiect\graph.h
+
+1528136266 source:c:\users\sorin\desktop\proiect\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"graph.h"
+
